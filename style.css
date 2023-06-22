@@ -1,0 +1,57 @@
+header{
+	height: 200px;
+	background-color: lightslategray;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1{
+font-size: 7vw;
+}
+aside{
+	width: 20%;
+	background-color: antiquewhite;
+	float: left;
+
+}
+main{
+	width: 60%;
+	background-color: lightseagreen;
+	float: left;
+
+}
+nav{
+	width: 20%;
+    background-color: antiquewhite;
+    float: left;
+
+}
+footer{
+
+	height: 200px;
+	clear: both;
+}
+h2{
+	text-align: center;
+    font-size: 3vw;
+}
+
+@media only screen and (max-width:620px) {
+  nav,main,aside{
+  	width: 100%;
+  }
+}
+/*social media*/
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+	border-radius: 50%;
+}
+
+ .fa:hover {
+
+ }

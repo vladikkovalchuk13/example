@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+body{
+	background-color: lightblue;
+}
+p{
+	font-size: 50px;
+	color: gold;
+}
+.fs2{
+	font-weight: 700;
+	font-variant: small-caps;
+}
+.fs3{
+	font-style: oblique;
+}
+.fs4{
+	font-family: "Gill Sans Extrabold", sans-serif;
+	text-transform: uppercase;
+	word-spacing: 5px;
+}
+.fs5{
+	font-family:  "Lucida Console", Courier, monospace;
+	text-transform: lowercase;
+	letter-spacing: 5px;
+}
+.fs1{
+	text-transform: capitalize;
+}
+.fs6{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: blue;
+}
+.fs7{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: dotted;
+	text-decoration-color: green;
+	text-decoration-line: underline overline;
+}
+.fs8{
+	text-shadow: 2px -2px orange;
+}
+.fs9{
+	text-shadow: 0 0 10px orange;
+
+}
+.fs10{
+	font-size: 75px;
+	text-shadow: 2px -2px red, -4px black;
+}
+.fl{
+	font-size: 2em;
+    font-weight: 700;
+    font-family: 'Rubik Gemstones', cursive;
+    text-shadow: 5px -5px green;
+
+}

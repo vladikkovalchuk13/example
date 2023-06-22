@@ -1,0 +1,52 @@
+p{
+	border: solid 10px purple;
+	font-size: 50px;
+	display: inline;
+}
+span{
+	border: dotted 5px pink;
+}
+li{
+	border: dashed 5px lime;
+	display: inline;
+}
+li:hover{
+	background-clip: lightseagreen;
+}
+div{
+	border: double 10px fuchsia;
+	width: 300px;
+	height: 300px;
+	margin-left: 100px;
+	padding: 100px;
+}
+#second{
+	width: 500px;
+	height: 500px;
+	border: ridge 10px aquamarine;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+#third{
+	width: 500px;
+	height: 500px;
+	border: groove 10px blanchedalmond;
+}
+#fourth,#fifth{
+	background-color: lightseagreen;
+	width: 700px;
+	height: 100px;
+	margin: 100px;
+}
+#fourth{
+	border-top: dotted 10px yellow;
+	border-bottom: dotted 10px yellow;
+
+}
+#fifth{
+	border-left: dotted 10px hotpink;
+	border-right: dotted 10px pink;
+	
+}

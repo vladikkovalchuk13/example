@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Київ</title>
+</head>
+
+
+<body>
+    <header>
+        <div class="bgvideo">
+            <img src="/img/header.jpg" alt="Header_img">
+            <h1>Київ</h1>
+        </div>
+    </header>
+    <aside>
+        <h2>Навігація</h2>
+        <a href="#lavr">Києво-Печерська лавра;</a>
+        <a href="#center">Хрещатик;</a>
+        <a href="#gold">Золоті ворота;</a>
+        <a href="#friend">Арка дружби;</a>
+        <a href="#uzviz">Андріївський узвіз;</a>
+
+    </aside>
+    <main>
+        <h2>Цікаві місця Києва для прогулянки</h2>
+
+        <div class="section">
+            <h3 id="lavr">Києво-Печерська лавра.</h3>
+
+            <div class="descriptions">
+                <div class="image">
+                    <img src="img/lavr.jpg" alt="lavr">
+                </div>
+                <p>Найвідоміший монастир Східної Європи, святиня для будь-якого християнина, перша обитель монахів
+                    на Русі,
+                    пам'ятник під захистом ЮНЕСКО. Краса її храмів торкнеться серця найзатятішого атеїста.Пройтися
+                    вздовж
+                    стародавніх стін, зайти в кожну будівлю, щоб попросити здоров'я для рідних, світу для країни, а
+                    потім
+                    опуститися в загадкові печери, намагаючись усвідомити, наскільки вони давні та як багато
+                    побачили –
+                    ось
+                    короткий маршрут для самостійної пішої прогулянки цим святим місцем Києва .</p>
+            </div>
+        </div>
+        <div class="section">
+            <h3 id="center">Хрещатик.</h3>
+
+            <div class="descriptions">
+                <div class="image">
+                    <img src="img/centerr.jpg" alt="center">
+                </div>
+                <p>Сучасна головна вулиця міста Києва являє собою долину між Старим містом і Печерськом. Долина ця
+                    була
+                    перехрещена іншими долинами, або балками. Звідси назва: перехрещена, або Хрещата долина,
+                    Хрещатик».</p>
+            </div>
+        </div>
+        <div class="section">
+            <h3 id="gold">Золоті ворота.</h3>
+
+            <div class="descriptions">
+                <div class="image">
+                    <img src="img/gold.jpg" alt="gold">
+                </div>
+                <p>Золоті ворота, символ Києва і всієї держави, отримали свою назву за аналогією із
+                    константинопольськими.
+                    Зведені у період з 1018 по 1024 роки, вони виконували не тільки оборонну функцію, а й
+                    уособлювали
+                    незалежність і могутність країни. «Володіти ними означало взяти Київ» – говорили вороги .</p>
+            </div>
+        </div>
+        <div class="section">
+            <h3 id="friend">Арка дружби.</h3>
+
+            <div class="descriptions">
+                <div class="image">
+                    <img src="img/friend.jpg" alt="friend">
+                </div>
+                <p>У центрі Києва днями демонтували монумент під аркою дружби народів, встановлений 1982 року як
+                    символ
+                    "возз'єднання" України та Росії. Після анексії Росією Криму та початку війни на Донбасі, у 2018
+                    році, на
+                    цій арці з'явився символічний малюнок - "тріщина дружби"</p>
+            </div>
+        </div>
+        <div class="section">
+            <h3 id="uzviz">Андріївський узвіз</h3>
+
+            <div class="descriptions">
+                <div class="image">
+                    <img src="img/uzviz.jpg" alt="uzviz">
+                </div>
+                <p>Андрі́ївський узві́з — узвіз в Подільському районі міста Києва, що сполучає Поділ зі Старим Києвом.
+                    Пролягає від Контрактової площі до Володимирської та Десятинної вулиць. Прилучаються вулиці
+                    Покровська, Боричів Тік, Фролівська і Воздвиженська. Пам'ятка містобудування місцевого та,
+                    одночасно, національного значення.</p>
+            </div>
+        </div>
+
+    </main>
+    <nav>
+        <h2>Мої роботи</h2>
+        <a href="pages/index.html">Перша робота</a>
+        <a href="pages/test.html">Градієнт</a>
+        <a href="pages/Theme 6/index.html">Шрифти</a>
+        <a href="pages/Home work/index3.html">Знаки</a>
+        <a href="pages/Home Work img/index.html">Зображення</a>
+        <a href="pages/run.html">Рядок що рухається</a>
+        <a href="pages/26.03/index.html">Списки</a>
+        <a href="pages/tables/index.html">Таблиця</a>
+        <a href="pages/09.04/index.html">Форматування тексту</a>
+        <a href="pages/23.04/index.html">Посилання</a>
+        <a href="pages/Home/index.html">Блоки</a>
+        <a href="pages/14.05/index.html">Адаптивний сайт</a>
+        <a href="pages/28.05/index.html">Мапа</a>
+    </nav>
+    <footer>
+        <h2>Мої контакти</h2>
+
+        <a href="mailto:vldgrdn@gmail.com" class="fa fa-google"></a>
+
+
+
+    </footer>
+</body>
+
+</html>

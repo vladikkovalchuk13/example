@@ -1,0 +1,13 @@
+p{
+	font-size: 50px;
+	color: red;
+	text-align: center;
+}
+table{
+	border: double 2px yellow;
+	width: 50%;
+	font-size: 24px;
+}
+th{
+	border: solid 1px black;
+}
